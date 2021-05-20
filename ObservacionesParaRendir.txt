@@ -1,0 +1,13 @@
+Pegar Wireflow
+Explicar por qué voy a usar CSS, HTML, PHP y Bootstrap
+Explicación de cada página con cada pantalla
+Justificar porque no coincide el mockup
+Hacer captura de pantalla del marvelapp
+Etapa 3 Ejecución seguimiento y control: Contar como lo voy haciendo
+Relatar cuáles fueron los desvíos en la etapa 2 respecto a la etapa 3
+Testear que todo funcione.
+Cierre: Conclusión personal del proyecto, anexos y glosario de termino, bibliografía
+Explicar en cada pantalla que hace cada cosa
+Efecto mouse cambie de color el menu
+Crud solo con interacción entre páginas
+

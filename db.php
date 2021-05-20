@@ -1,5 +1,6 @@
 <?php
 
+//Estoy probando GIT
 //iniciamos sesión en la aplicación para guardar datos que permitan mostrar msjes.
 session_start();
 
